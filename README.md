@@ -13,7 +13,7 @@ Thanks for watching!
 Team CFE
 
 
-## Lecture Code
+## Lecture Code very important
 
 [5 - Setup Django Project](../../tree/7776a07864dc42bc376959911a25d18ae1ec12c4)
 
